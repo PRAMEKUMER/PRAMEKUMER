@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm PRAME KUMER</h1>
 <h3 align="center">Game Master by passion, Coder by profession.</h3>
 
-<img align="right" alt="coding" width="400" src="/mnt/data/original-d6517f1e2cc5829933ba69ca77010944.gif
-">
+<img align="right" alt="coding" width="400" src="/mnt/data/original-d6517f1e2cc5829933ba69ca77010944.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramekumer&label=Profile%20views&color=0e75b6&style=flat" alt="pramekumer" /> </p>
 
