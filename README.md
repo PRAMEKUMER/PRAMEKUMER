@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm PRAME KUMER</h1>
 <h3 align="center">Game Master by passion, Coder by profession.</h3>
 
-<img align="right" alt="coding" width="400" src="https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22original-d6517f1e2cc5829933ba69ca77010944.gif%22%2C%22type%22%3A%22image%2Fgif%22%2C%22signedurl_expire%22%3A%222028-05-09T04%3A47%3A28.534Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F1ad39d7d955f4c98%2Foriginal-d6517f1e2cc5829933ba69ca77010944.gif%3FExpires%3D1841460449%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DaXuJb7KkMAgzLi4zA0kKCnysW1sKP2lDrX4eZBP8hlsj~njtE1PXgFBxvLh72STvprABFqnsz3UdBquEmB-CpCEV-Z6u6Oi5mXUpn8BQ93G6mMWIX8X6t7KMwI19TWFkWdoGa4u--gv6OIDkR7JqWDk14QEciGEOcy8cqkTEV5IiBKRIeGUArtQTB80F2C8Sqn5UJ2FOq-Li7vYWfSiHWWMxjZFeqq0Ooxa6D39OKexBb7hLHcwFw8Wr7nPWKpL4zvmTxdNnnIfKDibLG5Xc8My3UbRoqMN89grTSmcW-2b4H0H0VenaNENSGj0xtjtKc4x1gKzeNV8J76j0FfMTOg__%22%7D">
+<img align="right" alt="coding" width="400" src="/mnt/data/original-d6517f1e2cc5829933ba69ca77010944.gif
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramekumer&label=Profile%20views&color=0e75b6&style=flat" alt="pramekumer" /> </p>
 
